@@ -1,0 +1,29 @@
+/* style.css */
+
+body {
+    text-align: center;
+}
+
+h1 {
+    font-size: 7vh !important;
+}
+
+p {
+    font-size: 1vh !important;
+}
+
+.t {
+    font-size: 2vh !important;
+}
+
+h2 {
+    font-size: 3vh !important;
+}
+
+.hidden {
+    display: none;
+}
+
+.visible {
+    font-size: inherit;
+}
