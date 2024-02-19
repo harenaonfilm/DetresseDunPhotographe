@@ -7,7 +7,7 @@ $(document).ready(function(){
             element.text(text.substr(0, i+1));
             setTimeout(function() {
                 typeWriter(element, text, i + 1, cb);
-            }, 50); // Définissez la vitesse de frappe ici (en millisecondes)
+            }, 80); // Définissez la vitesse de frappe ici (en millisecondes)
         } else {
             cb();
         }
