@@ -5,20 +5,29 @@ body {
 }
 
 h1 {
-    font-size: 7vh !important;
+    font-size: 7rem !important;
 }
 
 p {
-    font-size: 1vh !important;
+    font-size: 1.2rem !important;
 }
 
 .t {
-    font-size: 2vh !important;
+    font-size: 2.5rem !important;
 }
 
 h2 {
-    font-size: 3vh !important;
+    font-size: 3rem !important;
 }
+
+.hidden {
+    display: none;
+}
+
+.visible {
+    font-size: inherit;
+}
+
 
 .hidden {
     display: none;
